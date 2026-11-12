@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T20:53:41Z",
+  "generatedAt": "2026-11-12T20:53:56Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -32,15 +32,15 @@
     },
     {
       "id": "benelli-trk900x-2026-1024-464-landscape",
-      "name": "Benelli TRK900X  2026",
+      "name": "Benelli TRK900X 2026",
       "brand": "Benelli",
       "model": "TRK900X",
       "years": "2026",
       "tft": "1024×464 landscape",
       "modelId": "37524",
       "path": "setups/benelli/benelli-trk900x-2026-1024-464-landscape.mhp",
-      "sha256": "6b0a2dc3768dcef1ba23f64a93f9a57b0f87e341ba98b3046930d1120cc332c6",
-      "bytes": 1028,
+      "sha256": "8e93d37b8116d4126814fcb73b7136cd8d184bdc791ef9f402024102314397a3",
+      "bytes": 996,
       "sections": [
         "connection",
         "video",
