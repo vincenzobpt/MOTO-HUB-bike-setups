@@ -1,7 +1,34 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T14:31:53Z",
+  "generatedAt": "2026-11-12T14:32:10Z",
   "setups": [
+    {
+      "id": "benelli-trk900x-2026-1024-464-landscape",
+      "name": "Benelli TRK900X  2026",
+      "brand": "Benelli",
+      "model": "TRK900X",
+      "years": "2026",
+      "tft": "1024×464 landscape",
+      "modelId": "37524",
+      "path": "setups/benelli/benelli-trk900x-2026-1024-464-landscape.mhp",
+      "sha256": "6b0a2dc3768dcef1ba23f64a93f9a57b0f87e341ba98b3046930d1120cc332c6",
+      "bytes": 1028,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "",
+      "app": "0.1.65 (67)",
+      "phone": "OnePlus CPH2653",
+      "verified": false
+    },
     {
       "id": "cfmoto-700-mt-adv-2025-800-386-landscape",
       "name": "CFMOTO 700 MT ADV 2025",
