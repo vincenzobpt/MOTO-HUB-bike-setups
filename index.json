@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T20:27:34Z",
+  "generatedAt": "2026-11-12T20:32:44Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -170,16 +170,16 @@
       "verified": false
     },
     {
-      "id": "keeway-xdv180pro-2026-848-304-landscape",
-      "name": "keeway xdv180pro (mySPIN) 2026",
+      "id": "keeway-xdv180pro-2026",
+      "name": "keeway xdv180pro (Hot Spot) 2026",
       "brand": "keeway",
-      "model": "xdv180pro (mySPIN)",
+      "model": "xdv180pro (Hot Spot)",
       "years": "2026",
-      "tft": "848×304 landscape",
-      "modelId": "MYSPIN",
-      "path": "setups/keeway/keeway-xdv180pro-2026-848-304-landscape.mhp",
-      "sha256": "90300a42dbfe717b240da37ca9f788d8e5cd91becf1ec93af846bda877f45c08",
-      "bytes": 1109,
+      "tft": "",
+      "modelId": null,
+      "path": "setups/keeway/keeway-xdv180pro-2026.mhp",
+      "sha256": "8c41b5c97406a3f058097b5d05271a661c43b5a85b03ec6d39bc266d88718199",
+      "bytes": 1088,
       "sections": [
         "connection",
         "video",
@@ -198,16 +198,16 @@
       "verified": false
     },
     {
-      "id": "keeway-xdv180pro-2026",
-      "name": "keeway xdv180pro 2026",
+      "id": "keeway-xdv180pro-2026-848-304-landscape",
+      "name": "keeway xdv180pro (mySPIN) 2026",
       "brand": "keeway",
-      "model": "xdv180pro (Hot Spot)",
+      "model": "xdv180pro (mySPIN)",
       "years": "2026",
-      "tft": "",
-      "modelId": null,
-      "path": "setups/keeway/keeway-xdv180pro-2026.mhp",
-      "sha256": "44b38da5d4f26cedd4837570380d9ad059b40fb955f1ca1b4efdb134d1a0c46c",
-      "bytes": 1086,
+      "tft": "848×304 landscape",
+      "modelId": "MYSPIN",
+      "path": "setups/keeway/keeway-xdv180pro-2026-848-304-landscape.mhp",
+      "sha256": "90300a42dbfe717b240da37ca9f788d8e5cd91becf1ec93af846bda877f45c08",
+      "bytes": 1109,
       "sections": [
         "connection",
         "video",
