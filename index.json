@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T14:32:52Z",
+  "generatedAt": "2026-11-12T18:51:27Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -83,6 +83,34 @@
       "notes": "",
       "app": "0.1.64 (66)",
       "phone": "OnePlus CPH2653",
+      "verified": false
+    },
+    {
+      "id": "cfmoto-800mt-explore-2025-1280-576-landscape",
+      "name": "CFMoto 800MT Explore 2025",
+      "brand": "CFMoto",
+      "model": "800MT Explore",
+      "years": "2025",
+      "tft": "1280×576 landscape",
+      "modelId": "37426",
+      "path": "setups/cfmoto/cfmoto-800mt-explore-2025-1280-576-landscape.mhp",
+      "sha256": "4103bf47aa1ac2f5e87ed375469b9a961c2ecdf90bb68994235a93f33799f6cb",
+      "bytes": 1247,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar",
+        "dashboard"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "Thus setup requires a Liveall BR80 BLE controller in order to be used all the time without interfering with the media handlebar controls.",
+      "app": "0.1.66 (68)",
+      "phone": "samsung SM-F966B",
       "verified": false
     },
     {
