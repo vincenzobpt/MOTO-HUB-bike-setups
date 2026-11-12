@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T20:53:56Z",
+  "generatedAt": "2026-11-12T20:54:11Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -227,15 +227,15 @@
     },
     {
       "id": "motor-hispania-mh-tray-125-2026-800-352-landscape",
-      "name": "Motor Hispania  MH TRAY 125 2026",
+      "name": "Motor Hispania MH TRAY 125 2026",
       "brand": "Motor Hispania",
       "model": "MH TRAY 125",
       "years": "2026",
       "tft": "800×352 landscape",
       "modelId": null,
       "path": "setups/motor-hispania/motor-hispania-mh-tray-125-2026-800-352-landscape.mhp",
-      "sha256": "8770b98534c9185ae76e32a855b4f2996c15669f8d50d78de06a23110499c1ec",
-      "bytes": 1150,
+      "sha256": "71a936ba3c353aa7217ae8b99ebebd4fefaf794cfb6d2ecfadbb6ee7038c48ba",
+      "bytes": 1117,
       "sections": [
         "connection",
         "video",
