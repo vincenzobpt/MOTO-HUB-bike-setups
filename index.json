@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T20:54:11Z",
+  "generatedAt": "2026-11-12T20:54:35Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -255,15 +255,15 @@
     },
     {
       "id": "zontes-368g-v1-2025-1280-535-landscape",
-      "name": "Zontes 368G V1  2025",
+      "name": "Zontes 368G V1 2025",
       "brand": "Zontes",
       "model": "368G V1",
       "years": "2025",
       "tft": "1280×535 landscape",
       "modelId": "21334",
       "path": "setups/zontes/zontes-368g-v1-2025-1280-535-landscape.mhp",
-      "sha256": "8b285b6861dbd6885d5b27d0d948f3c4062d7d479ef1535e8b95f0d2c7ec877f",
-      "bytes": 22867,
+      "sha256": "4e92a707f2197cd25adea80981c98c25b6f4946fd565e81466ac87de4b9d141f",
+      "bytes": 22776,
       "sections": [
         "connection",
         "video",
