@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T14:32:10Z",
+  "generatedAt": "2026-11-12T14:32:35Z",
   "setups": [
     {
       "id": "benelli-trk900x-2026-1024-464-landscape",
@@ -111,6 +111,34 @@
       "notes": "Using Android Auto, margins optimized for easier reading on the panel and being able to see the time through Android Auto",
       "app": "0.1.65 (67)",
       "phone": "RugOne Xever 7",
+      "verified": false
+    },
+    {
+      "id": "keeway-xdv180pro-2026",
+      "name": "keeway xdv180pro 2026",
+      "brand": "keeway",
+      "model": "xdv180pro",
+      "years": "2026",
+      "tft": "",
+      "modelId": null,
+      "path": "setups/keeway/keeway-xdv180pro-2026.mhp",
+      "sha256": "61ae86c343e4c4a41b65b93791207339321e25db66cfe1746987b8f8f5e7da5a",
+      "bytes": 1107,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar",
+        "dashboard"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "",
+      "app": "0.1.65 (67)",
+      "phone": "INFINIX Infinix X6833B",
       "verified": false
     },
     {
