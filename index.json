@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T20:17:04Z",
+  "generatedAt": "2026-11-12T20:26:56Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -173,13 +173,13 @@
       "id": "keeway-xdv180pro-2026",
       "name": "keeway xdv180pro 2026",
       "brand": "keeway",
-      "model": "xdv180pro",
+      "model": "xdv180pro (Hot Spot)",
       "years": "2026",
       "tft": "",
       "modelId": null,
       "path": "setups/keeway/keeway-xdv180pro-2026.mhp",
-      "sha256": "61ae86c343e4c4a41b65b93791207339321e25db66cfe1746987b8f8f5e7da5a",
-      "bytes": 1107,
+      "sha256": "44b38da5d4f26cedd4837570380d9ad059b40fb955f1ca1b4efdb134d1a0c46c",
+      "bytes": 1086,
       "sections": [
         "connection",
         "video",
