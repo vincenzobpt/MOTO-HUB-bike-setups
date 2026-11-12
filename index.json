@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T18:51:27Z",
+  "generatedAt": "2026-11-12T20:17:04Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
-      "name": "arora  cp250",
+      "name": "arora cp250",
       "brand": "arora",
-      "model": "cp250",
+      "model": "CP250",
       "years": "",
       "tft": "800×368 landscape",
       "modelId": "66660011",
       "path": "setups/arora/arora-cp250-800-368-landscape.mhp",
-      "sha256": "3df56bd982eba252c3c92b8478b8a4345f9c6d726399d809b8be47ea7cbfcb26",
-      "bytes": 1118,
+      "sha256": "64de86f95df77b85179c7542e8e8afd23b4b96130bc69c71d45d78e8b1ed0a8f",
+      "bytes": 1089,
       "sections": [
         "connection",
         "video",
