@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T20:54:35Z",
+  "generatedAt": "2026-11-12T22:47:59Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -223,6 +223,62 @@
       "notes": "",
       "app": "0.1.65 (67)",
       "phone": "INFINIX Infinix X6833B",
+      "verified": false
+    },
+    {
+      "id": "kove-800x-2026-600-1024-portrait",
+      "name": "KOVE 800X 2026",
+      "brand": "KOVE",
+      "model": "800X",
+      "years": "2026",
+      "tft": "600×1024 portrait",
+      "modelId": "THINKERRIDE",
+      "path": "setups/kove/kove-800x-2026-600-1024-portrait.mhp",
+      "sha256": "c1234905b88854ae01d86c7f86d97a0b6a91eba1184e129b7083947042d54737",
+      "bytes": 86172,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar",
+        "dashboard"
+      ],
+      "hasDashboard": true,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "",
+      "app": "0.1.66 (68)",
+      "phone": "samsung SM-S928B",
+      "verified": false
+    },
+    {
+      "id": "moto-morini-x-cape-1200-2026-1024-464-landscape",
+      "name": "Moto Morini X-Cape 1200 2026",
+      "brand": "Moto Morini",
+      "model": "X-Cape 1200",
+      "years": "2026",
+      "tft": "1024×464 landscape",
+      "modelId": "00297",
+      "path": "setups/moto-morini/moto-morini-x-cape-1200-2026-1024-464-landscape.mhp",
+      "sha256": "a05a0be2c423f7174bce1233d25b4820e7dd1672e2e5caaa7ab66ba2b6093e9b",
+      "bytes": 1150,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar",
+        "dashboard"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "",
+      "app": "0.1.66 (68)",
+      "phone": "Google Pixel 9a",
       "verified": false
     },
     {
