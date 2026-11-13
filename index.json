@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T22:47:59Z",
+  "generatedAt": "2026-11-13T17:27:59Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -335,6 +335,33 @@
       "notes": "",
       "app": "0.1.65 (67)",
       "phone": "Nothing A024",
+      "verified": false
+    },
+    {
+      "id": "zontes-gk350-2022-800-480-landscape",
+      "name": "Zontes gk350 2022",
+      "brand": "Zontes",
+      "model": "gk350",
+      "years": "2022",
+      "tft": "800×480 landscape",
+      "modelId": "34808",
+      "path": "setups/zontes/zontes-gk350-2022-800-480-landscape.mhp",
+      "sha256": "32768e1044043e979a5cb319bc9d84353edf236c0aa20b843aa59d89330560c0",
+      "bytes": 1023,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "",
+      "app": "0.1.67 (69)",
+      "phone": "samsung SM-A245F",
       "verified": false
     }
   ]
