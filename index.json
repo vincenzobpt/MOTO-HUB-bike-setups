@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-15T10:26:55Z",
+  "generatedAt": "2026-11-15T16:02:02Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -55,6 +55,33 @@
       "notes": "",
       "app": "0.1.65 (67)",
       "phone": "OnePlus CPH2653",
+      "verified": false
+    },
+    {
+      "id": "cfmoto-450mt-2026-800-386-landscape",
+      "name": "CFMOTO 450MT 2026",
+      "brand": "CFMOTO",
+      "model": "450MT",
+      "years": "2026",
+      "tft": "800×386 landscape",
+      "modelId": null,
+      "path": "setups/cfmoto/cfmoto-450mt-2026-800-386-landscape.mhp",
+      "sha256": "083c8fa4d092a682d6cb20a678e72b4536a04bb100b5e302ed870820533a4afe",
+      "bytes": 1038,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "",
+      "app": "0.1.68 (70)",
+      "phone": "Xiaomi 2506BPN68G",
       "verified": false
     },
     {
