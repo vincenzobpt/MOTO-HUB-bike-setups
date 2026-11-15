@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-13T17:27:59Z",
+  "generatedAt": "2026-11-15T10:26:55Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -251,6 +251,34 @@
       "notes": "",
       "app": "0.1.66 (68)",
       "phone": "samsung SM-S928B",
+      "verified": false
+    },
+    {
+      "id": "kove-aveta-vanguard-250-2026-1024-600-landscape",
+      "name": "KOVE aveta vanguard 250 2026",
+      "brand": "KOVE",
+      "model": "aveta vanguard 250",
+      "years": "2026",
+      "tft": "1024×600 landscape",
+      "modelId": "EYLINK",
+      "path": "setups/kove/kove-aveta-vanguard-250-2026-1024-600-landscape.mhp",
+      "sha256": "297441a65d952da470e0589fb46f298f903fa65c32db86a2803614cb2189a704",
+      "bytes": 1169,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar",
+        "dashboard"
+      ],
+      "hasDashboard": true,
+      "dashboardRef": "moto-hub-studio.head-unit-drive",
+      "author": "",
+      "notes": "",
+      "app": "0.1.67 (69)",
+      "phone": "Xiaomi 25098PN5AC",
       "verified": false
     },
     {
