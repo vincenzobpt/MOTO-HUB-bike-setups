@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-15T16:02:02Z",
+  "generatedAt": "2026-11-16T07:26:58Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -194,6 +194,34 @@
       "notes": "Using Android Auto, margins optimized for easier reading on the panel and being able to see the time through Android Auto",
       "app": "0.1.65 (67)",
       "phone": "RugOne Xever 7",
+      "verified": false
+    },
+    {
+      "id": "keeway-keeway-xdv-180-2025",
+      "name": "Keeway xdv 180 2025",
+      "brand": "Keeway",
+      "model": "xdv 180",
+      "years": "2025",
+      "tft": "",
+      "modelId": null,
+      "path": "setups/keeway/keeway-keeway-xdv-180-2025.mhp",
+      "sha256": "310974c7b0fba18f7cb790dbe9ef04c95fd382752c4f12d45047d2a84013d7c5",
+      "bytes": 1071,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar",
+        "dashboard"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "1",
+      "app": "0.1.65 (67)",
+      "phone": "vivo V2231",
       "verified": false
     },
     {
