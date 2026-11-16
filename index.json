@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-16T07:26:58Z",
+  "generatedAt": "2026-11-16T19:30:19Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -220,6 +220,34 @@
       "dashboardRef": null,
       "author": "",
       "notes": "1",
+      "app": "0.1.65 (67)",
+      "phone": "vivo V2231",
+      "verified": false
+    },
+    {
+      "id": "keeway-xdv-180-2025",
+      "name": "Keeway XDV 180 2025",
+      "brand": "Keeway",
+      "model": "XDV 180",
+      "years": "2025",
+      "tft": "",
+      "modelId": null,
+      "path": "setups/keeway/keeway-xdv-180-2025.mhp",
+      "sha256": "141082f1769a6f5c78380481c0605a40f57a6208b933331a62d287745e522731",
+      "bytes": 1072,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar",
+        "dashboard"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "",
       "app": "0.1.65 (67)",
       "phone": "vivo V2231",
       "verified": false
