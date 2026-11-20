@@ -9,6 +9,7 @@ The app reads `index.json` from this repository, so riders can browse the catalo
 setup for their model without starting from scratch.
 
 [![Discord](https://img.shields.io/badge/Discord-join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
+[![Facebook](https://img.shields.io/badge/Facebook-follow%20the%20page-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/motohub.techub.eu/)
 [![Website](https://img.shields.io/badge/website-motohub.techub.eu-111111)](https://motohub.techub.eu)
 [![Get MOTO-HUB ADV-SOLO](https://img.shields.io/badge/app-MOTO--HUB%20ADV--SOLO-e10600?logo=android&logoColor=white)](https://github.com/vincenzobpt/MOTO-HUB-ADV-SOLO-releases/releases/latest)
 
