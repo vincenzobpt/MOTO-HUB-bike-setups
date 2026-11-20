@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-16T19:30:19Z",
+  "generatedAt": "2026-11-20T22:17:46Z",
   "setups": [
     {
       "id": "arora-cp250-800-368-landscape",
@@ -362,6 +362,34 @@
       "notes": "",
       "app": "0.1.67 (69)",
       "phone": "Xiaomi 25098PN5AC",
+      "verified": false
+    },
+    {
+      "id": "kove-keeway-xdv-180-evo-v2-eylink-2025-1024-600-landscape",
+      "name": "KOVE Keeway XDV 180 Evo V2 (Eylink) 2025",
+      "brand": "KOVE",
+      "model": "Keeway XDV 180 Evo V2 (Eylink)",
+      "years": "2025",
+      "tft": "1024×600 landscape",
+      "modelId": "EYLINK",
+      "path": "setups/kove/kove-keeway-xdv-180-evo-v2-eylink-2025-1024-600-landscape.mhp",
+      "sha256": "cc6b4ce329c908d3302e19e5d1fffcbfdfd52f34f59a38d5d39743a282dad310",
+      "bytes": 1196,
+      "sections": [
+        "connection",
+        "video",
+        "androidAuto",
+        "screen",
+        "link",
+        "handlebar",
+        "dashboard"
+      ],
+      "hasDashboard": false,
+      "dashboardRef": null,
+      "author": "",
+      "notes": "V2",
+      "app": "0.1.72 (74)",
+      "phone": "INFINIX Infinix X678B",
       "verified": false
     },
     {
